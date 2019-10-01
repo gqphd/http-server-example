@@ -12,7 +12,9 @@ Default path is ./test_htdoc and its files.
 
 Change path in **run.bat**
 
-Tested on windows.
+Tested on Windows 10.
+
+*You should have [NODE](https://nodejs.org/en/) installed in your PC to run NPM commands*
 
 
 
